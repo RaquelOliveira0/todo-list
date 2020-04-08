@@ -1,7 +1,6 @@
 # todo-list
 ## Esse é um projeto de uma lista de tarefas usando React,Node e Mongo.
-![todoapp](https://user-images.githubusercontent.com/28407757/78840668-c052d080-79d1-11ea-8985-5da0e2ea3104.PNG)
-
+![todoapp11](https://user-images.githubusercontent.com/28407757/78842477-74eef100-79d6-11ea-9f16-80bf51653aa9.png)
 ## Instalação
 Backend
 ```sh
