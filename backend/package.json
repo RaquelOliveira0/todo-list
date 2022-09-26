@@ -9,7 +9,7 @@
     "mongoose": "^5.9.7",
     "node-restful": "^0.2.6",
     "nodemon": "^2.0.2",
-    "pm2": "^4.2.3"
+    "pm2": "^5.2.0"
   },
   "devDependencies": {
   },
